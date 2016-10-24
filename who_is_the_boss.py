@@ -3,5 +3,5 @@ def meesa(str):
     print str
     return
 
-meesa("is the greatest Sith in da universe.")
+meesa("is the boss.")
 
